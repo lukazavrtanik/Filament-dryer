@@ -47,3 +47,7 @@ Long pressing the knob activates the heater and disables all the other commands
 
 Pressing while the heater is on will turn off the heater and return to the previous mode
 
+_______________________________________________________
+
+![Filament dryer put together for storage](Dryer_storage.jpg)
+![Filament dryer assembled and ready for use](Dryer_assembled.jpg)
