@@ -3,7 +3,7 @@
 
 My goal was to make a simple filament dryer using mainly components that were lying around from previous projects. The result is a crude but effective filament dryer.
 This build was optimized for recycling old 3D printer components, so it wouldn't make much sense to make it if you don't have some old printer parts from previous projects.
-
+_______________________________________________________
 
 Main components:
 
@@ -18,7 +18,7 @@ DHT11 sensor for ambient temperature and relative humidity
 Computer fan
 
 ATX power supply Misc (cables, connectors, screws...)
-
+_______________________________________________________
 
 Connections on the RAMPS board:
 
@@ -31,7 +31,7 @@ HEated bed thermistor: Same as on 3D printers
 Computer fan: Same as extruder heater
 
 DHT11: D57, Vcc and GND pins on AUX-1
-
+_______________________________________________________
 
 User interface:
 
