@@ -9,7 +9,15 @@ RAMPS board + arduino mega
 RepRap full graphic display
 RepRap heated bed with temperature sensor
 DHT11 sensor for ambient temperature and relative humidity
+Computer fan
 ATX power supply Misc (cables, connectors, screws...)
+
+Connections on the RAMPS board:
+Screen: Same as on 3D printers
+Heated bed: Same as on 3D printers
+HEated bed thermistor: Same as on 3D printers
+Computer fan: Same as extruder heater
+DHT11: D57, Vcc and GND pins on AUX-1
 
 User interface:
 The rotary knob is used to input commands:
